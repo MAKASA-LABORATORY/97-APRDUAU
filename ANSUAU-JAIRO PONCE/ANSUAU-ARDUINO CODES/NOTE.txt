@@ -1,0 +1,1 @@
+Download the Adafruit_LiquidCrystal library from the Arduino library manager.
